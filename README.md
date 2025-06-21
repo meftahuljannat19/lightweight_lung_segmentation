@@ -1,5 +1,5 @@
 # Lung Segmentation with Lightweight Convolutional Attention Residual U-Net
-This repository contains the works and results of the article "Lung Segmentation with Lightweight Convolutional Attention Residual U-Net". [Link](https://doi.org/10.3390/diagnostics15070854)
+### This repository contains the works and results of the article "Lung Segmentation with Lightweight Convolutional Attention Residual U-Net". [Link](https://doi.org/10.3390/diagnostics15070854)
 
 ![Architecture](https://github.com/meftahuljannat19/lightweight_lung_segmentation/blob/main/arch.jpg)
 
